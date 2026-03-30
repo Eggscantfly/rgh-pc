@@ -1,2 +1,2 @@
 # rgh-pc
-A Decompilation of the Rabbids Go Home 16 Level PC port
+A Recompilation of Rabbids Go Home Wii Version 
