@@ -46,7 +46,7 @@ This project is inspired by Matthew Stanley's PSXRecomp (March 2026), which demo
 | HAL — DVD filesystem | ✅ Stubs only |
 | CMakeLists.txt | ✅ Builds cleanly |
 | GhidraMCP integration | ✅ Connected |
-| AI translation loop | 🔄 In progress |
+| AI translation loop | Started |
 | Dolphin MCP integration | ❌ Not started |
 | GX OpenGL backend | ❌ Not started |
 | AX audio backend | ❌ Not started |
