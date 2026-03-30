@@ -24,7 +24,7 @@ This project is inspired by Matthew Stanley's PSXRecomp (March 2026), which demo
 | | |
 |---|---|
 | **Game** | Rabbids Go Home (Wii, NTSC-U) |
-| **Engine** | LyN (Ubisoft internal — also used in Just Dance, Raving Rabbids 2) |
+| **Engine** | LyN (Ubisoft internal — also used in Just Dance, Rabbids Travel in Time) |
 | **CPU** | IBM PowerPC 750CL ("Broadway"), 729 MHz, big-endian, 32-bit |
 | **Primary ELF** | `LynWiiF.elf` — 23,255 functions |
 | **Dynamic lib** | `Ai2CppWiiFinal.rso` (Wii RSO format) |
