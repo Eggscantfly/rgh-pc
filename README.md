@@ -223,8 +223,8 @@ Escalation triggers: computed branches, complex paired-single FPU, unresolved RS
 
 ## Contributors
 
-- **Eggscantfly** — project lead, reverse engineering, LyN engine expertise
-- **Skibidi_sigma** — testing, local AI compute
+- **Eggscantfly** 
+- **Skibidi_sigma** 
 
 ---
 
