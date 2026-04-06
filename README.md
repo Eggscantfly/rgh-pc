@@ -11,7 +11,6 @@ A reverse engineering and decompilation project for **Rabbids Go Home**
 ---
 
 This project aims to fully decompile the original Rabbids Go Home 16 Level PC Port executable into readable and rebuildable C source code.  
-Everything here is for **preservation, documentation, and modding research**
 
 ---
 
