@@ -17,6 +17,6 @@ This project aims to fully decompile the original Rabbids Go Home 16 Level PC Po
 <div align="center">
 
 [![License](https://img.shields.io/badge/license-Educational-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-0%25-orange.svg)](README.md)
+[![Status](https://img.shields.io/badge/status-1.1%25-orange.svg)](README.md)
 
 </div>
